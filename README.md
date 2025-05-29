@@ -4,10 +4,11 @@ Designing a digital speed controller for a direct current motor
 
 
    Given the laboratory setup "DC Electric Motor with Speed Transducer," a controller should be designed so that the closed-loop system meets the following performance criteria:
-        i.            Zero steady-state error
-        ii.            Overshoot of 5%
-        iii.           Damping factor ζ = 0.707
-        iv.           Transient response duration of 2 seconds
+   
+        1.            Zero steady-state error
+        2.            Overshoot of 5%
+        3.           Damping factor ζ = 0.707
+        4.           Transient response duration of 2 seconds
 
   The design is done using two methods:
 1.     The method of allocating poles and zeros
